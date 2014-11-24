@@ -27,7 +27,7 @@ public class MainActivity extends ActionBarActivity {
     private EditText sourceFile;
     private EditText outFile;
     private ProgressBar pBar;
-/////////////////////
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
